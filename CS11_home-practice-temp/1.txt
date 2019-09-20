@@ -1,1 +1,2 @@
-Fi?ierul 1
+Fisierul 1. 
+Git
