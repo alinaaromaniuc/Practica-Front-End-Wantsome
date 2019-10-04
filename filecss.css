@@ -1,0 +1,43 @@
+.header {
+    background-color: #D1E5E1 !important;
+    height: 100px !important;
+}
+
+.footer {
+    background-color: palevioletred !important;
+    height: 100px !important;
+}
+
+.favorite {
+    color: red !important;
+}
+
+.click {
+    border: 1px solid black !important;
+    color: green !important;
+}
+
+.special {
+    border: 1px solid black !important;
+    color: #c55 !important;
+}
+
+#main {
+    width: 200px;
+    margin: 0 auto;
+    font-family: 'Mansalva', cursive;
+}
+
+.qualification {
+    font-weight: bold;
+    color: palevioletred;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+.text {
+    font-family: 'Indie Flower', cursive;
+}
